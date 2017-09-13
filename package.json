@@ -4,6 +4,7 @@
   "description": "npm project",
   "main": "src/index.js\t",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joyce Ling <yuli5565@colorado.edu>",
